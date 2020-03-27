@@ -1,0 +1,184 @@
+[
+    {
+        "place": "Andhra Pradesh",
+        "positiveIN": "11",
+        "positiveFN": "0",
+        "cured": "1",
+        "death": "0"
+    },
+    {
+        "place": "Bihar",
+        "positiveIN": "3",
+        "positiveFN": "0",
+        "cured": "0",
+        "death": "1"
+    },
+    {
+        "place": "Chhattisgarh",
+        "positiveIN": "3",
+        "positiveFN": "0",
+        "cured": "0",
+        "death": "0"
+    },
+    {
+        "place": "Delhi",
+        "positiveIN": "34",
+        "positiveFN": "1",
+        "cured": "6",
+        "death": "1"
+    },
+    {
+        "place": "Goa",
+        "positiveIN": "3",
+        "positiveFN": "0",
+        "cured": "0",
+        "death": "0"
+    },
+    {
+        "place": "Gujarat",
+        "positiveIN": "37",
+        "positiveFN": "1",
+        "cured": "0",
+        "death": "2"
+    },
+    {
+        "place": "Haryana",
+        "positiveIN": "16",
+        "positiveFN": "14",
+        "cured": "11",
+        "death": "0"
+    },
+    {
+        "place": "Himachal Pradesh",
+        "positiveIN": "3",
+        "positiveFN": "0",
+        "cured": "0",
+        "death": "1"
+    },
+    {
+        "place": "Karnataka",
+        "positiveIN": "41",
+        "positiveFN": "0",
+        "cured": "3",
+        "death": "1"
+    },
+    {
+        "place": "Kerala",
+        "positiveIN": "110",
+        "positiveFN": "8",
+        "cured": "4",
+        "death": "0"
+    },
+    {
+        "place": "Madhya Pradesh",
+        "positiveIN": "15",
+        "positiveFN": "0",
+        "cured": "0",
+        "death": "1"
+    },
+    {
+        "place": "Maharashtra",
+        "positiveIN": "121",
+        "positiveFN": "3",
+        "cured": "1",
+        "death": "3"
+    },
+    {
+        "place": "Manipur",
+        "positiveIN": "1",
+        "positiveFN": "0",
+        "cured": "0",
+        "death": "0"
+    },
+    {
+        "place": "Mizoram",
+        "positiveIN": "1",
+        "positiveFN": "0",
+        "cured": "0",
+        "death": "0"
+    },
+    {
+        "place": "Odisha",
+        "positiveIN": "2",
+        "positiveFN": "0",
+        "cured": "0",
+        "death": "0"
+    },
+    {
+        "place": "Puducherry",
+        "positiveIN": "1",
+        "positiveFN": "0",
+        "cured": "0",
+        "death": "0"
+    },
+    {
+        "place": "Punjab",
+        "positiveIN": "33",
+        "positiveFN": "0",
+        "cured": "0",
+        "death": "1"
+    },
+    {
+        "place": "Rajasthan",
+        "positiveIN": "36",
+        "positiveFN": "2",
+        "cured": "3",
+        "death": "0"
+    },
+    {
+        "place": "Tamil Nadu",
+        "positiveIN": "20",
+        "positiveFN": "6",
+        "cured": "1",
+        "death": "1"
+    },
+    {
+        "place": "Telengana",
+        "positiveIN": "31",
+        "positiveFN": "10",
+        "cured": "1",
+        "death": "0"
+    },
+    {
+        "place": "Chandigarh",
+        "positiveIN": "7",
+        "positiveFN": "0",
+        "cured": "0",
+        "death": "0"
+    },
+    {
+        "place": "Jammu and Kashmir",
+        "positiveIN": "11",
+        "positiveFN": "0",
+        "cured": "1",
+        "death": "0"
+    },
+    {
+        "place": "Ladakh",
+        "positiveIN": "13",
+        "positiveFN": "0",
+        "cured": "0",
+        "death": "0"
+    },
+    {
+        "place": "Uttar Pradesh",
+        "positiveIN": "36",
+        "positiveFN": "1",
+        "cured": "11",
+        "death": "0"
+    },
+    {
+        "place": "Uttarakhand",
+        "positiveIN": "4",
+        "positiveFN": "1",
+        "cured": "0",
+        "death": "0"
+    },
+    {
+        "place": "West Bengal",
+        "positiveIN": "9",
+        "positiveFN": "0",
+        "cured": "0",
+        "death": "1"
+    }
+]

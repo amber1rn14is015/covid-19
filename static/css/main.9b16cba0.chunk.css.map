@@ -1,0 +1,1 @@
+{"version":3,"sources":["home.module.css"],"names":[],"mappings":"AAAA,uBACI,eAAgB,CAChB,kBACJ","file":"main.9b16cba0.chunk.css","sourcesContent":[".wrapper > * {\r\n    margin-top: 15px;\r\n    margin-bottom: 15px;\r\n}"]}
