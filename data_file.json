@@ -1,191 +1,191 @@
 [
     {
+        "id": "1",
         "place": "Andhra Pradesh",
-        "positiveIN": "19",
-        "positiveFN": "1",
-        "cured": "0",
-        "death": ""
+        "confirmed": "19",
+        "cured": "1",
+        "death": "0"
     },
     {
+        "id": "2",
         "place": "Andaman and Nicobar Islands",
-        "positiveIN": "9",
-        "positiveFN": "0",
+        "confirmed": "9",
         "cured": "0",
-        "death": ""
+        "death": "0"
     },
     {
+        "id": "3",
         "place": "Bihar",
-        "positiveIN": "11",
-        "positiveFN": "0",
-        "cured": "1",
-        "death": ""
+        "confirmed": "11",
+        "cured": "0",
+        "death": "1"
     },
     {
+        "id": "4",
         "place": "Chandigarh",
-        "positiveIN": "8",
-        "positiveFN": "0",
+        "confirmed": "8",
         "cured": "0",
-        "death": ""
+        "death": "0"
     },
     {
+        "id": "5",
         "place": "Chhattisgarh",
-        "positiveIN": "7",
-        "positiveFN": "0",
+        "confirmed": "7",
         "cured": "0",
-        "death": ""
+        "death": "0"
     },
     {
+        "id": "6",
         "place": "Delhi",
-        "positiveIN": "53",
-        "positiveFN": "6",
-        "cured": "2",
-        "death": ""
+        "confirmed": "53",
+        "cured": "6",
+        "death": "2"
     },
     {
+        "id": "7",
         "place": "Goa",
-        "positiveIN": "5",
-        "positiveFN": "0",
+        "confirmed": "5",
         "cured": "0",
-        "death": ""
+        "death": "0"
     },
     {
+        "id": "8",
         "place": "Gujarat",
-        "positiveIN": "58",
-        "positiveFN": "1",
-        "cured": "5",
-        "death": ""
+        "confirmed": "58",
+        "cured": "1",
+        "death": "5"
     },
     {
+        "id": "9",
         "place": "Haryana",
-        "positiveIN": "33",
-        "positiveFN": "17",
-        "cured": "0",
-        "death": ""
+        "confirmed": "33",
+        "cured": "17",
+        "death": "0"
     },
     {
+        "id": "10",
         "place": "Himachal Pradesh",
-        "positiveIN": "3",
-        "positiveFN": "0",
-        "cured": "1",
-        "death": ""
+        "confirmed": "3",
+        "cured": "0",
+        "death": "1"
     },
     {
+        "id": "11",
         "place": "Jammu and Kashmir",
-        "positiveIN": "31",
-        "positiveFN": "1",
-        "cured": "2",
-        "death": ""
+        "confirmed": "31",
+        "cured": "1",
+        "death": "2"
     },
     {
+        "id": "12",
         "place": "Karnataka",
-        "positiveIN": "80",
-        "positiveFN": "5",
-        "cured": "3",
-        "death": ""
+        "confirmed": "80",
+        "cured": "5",
+        "death": "3"
     },
     {
+        "id": "13",
         "place": "Kerala",
-        "positiveIN": "194",
-        "positiveFN": "19",
-        "cured": "1",
-        "death": ""
+        "confirmed": "194",
+        "cured": "19",
+        "death": "1"
     },
     {
+        "id": "14",
         "place": "Ladakh",
-        "positiveIN": "13",
-        "positiveFN": "3",
-        "cured": "0",
-        "death": ""
+        "confirmed": "13",
+        "cured": "3",
+        "death": "0"
     },
     {
+        "id": "15",
         "place": "Madhya Pradesh",
-        "positiveIN": "33",
-        "positiveFN": "0",
-        "cured": "2",
-        "death": ""
+        "confirmed": "33",
+        "cured": "0",
+        "death": "2"
     },
     {
+        "id": "16",
         "place": "Maharashtra",
-        "positiveIN": "193",
-        "positiveFN": "25",
-        "cured": "8",
-        "death": ""
+        "confirmed": "193",
+        "cured": "25",
+        "death": "8"
     },
     {
+        "id": "17",
         "place": "Manipur",
-        "positiveIN": "1",
-        "positiveFN": "0",
+        "confirmed": "1",
         "cured": "0",
-        "death": ""
+        "death": "0"
     },
     {
+        "id": "18",
         "place": "Mizoram",
-        "positiveIN": "1",
-        "positiveFN": "0",
+        "confirmed": "1",
         "cured": "0",
-        "death": ""
+        "death": "0"
     },
     {
+        "id": "19",
         "place": "Odisha",
-        "positiveIN": "3",
-        "positiveFN": "0",
+        "confirmed": "3",
         "cured": "0",
-        "death": ""
+        "death": "0"
     },
     {
+        "id": "20",
         "place": "Puducherry",
-        "positiveIN": "1",
-        "positiveFN": "0",
+        "confirmed": "1",
         "cured": "0",
-        "death": ""
+        "death": "0"
     },
     {
+        "id": "21",
         "place": "Punjab",
-        "positiveIN": "38",
-        "positiveFN": "1",
+        "confirmed": "38",
         "cured": "1",
-        "death": ""
+        "death": "1"
     },
     {
+        "id": "22",
         "place": "Rajasthan",
-        "positiveIN": "57",
-        "positiveFN": "3",
-        "cured": "0",
-        "death": ""
+        "confirmed": "57",
+        "cured": "3",
+        "death": "0"
     },
     {
+        "id": "23",
         "place": "Tamil Nadu",
-        "positiveIN": "50",
-        "positiveFN": "4",
-        "cured": "1",
-        "death": ""
+        "confirmed": "50",
+        "cured": "4",
+        "death": "1"
     },
     {
+        "id": "24",
         "place": "Telengana",
-        "positiveIN": "69",
-        "positiveFN": "1",
+        "confirmed": "69",
         "cured": "1",
-        "death": ""
+        "death": "1"
     },
     {
+        "id": "25",
         "place": "Uttarakhand",
-        "positiveIN": "7",
-        "positiveFN": "2",
-        "cured": "0",
-        "death": ""
+        "confirmed": "7",
+        "cured": "2",
+        "death": "0"
     },
     {
+        "id": "26",
         "place": "Uttar Pradesh",
-        "positiveIN": "75",
-        "positiveFN": "11",
-        "cured": "0",
-        "death": ""
+        "confirmed": "75",
+        "cured": "11",
+        "death": "0"
     },
     {
+        "id": "27",
         "place": "West Bengal",
-        "positiveIN": "19",
-        "positiveFN": "0",
-        "cured": "1",
-        "death": ""
+        "confirmed": "19",
+        "cured": "0",
+        "death": "1"
     }
 ]
