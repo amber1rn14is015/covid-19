@@ -1,0 +1,43 @@
+const place_data = {
+    place_names : [
+        {'place':'Andaman & Nicobar Islands', 'positive':0, 'death':0},
+        {'place':'Andhra Pradesh', 'positive':7, 'death':0},
+        {'place':'Arunachal Pradesh', 'positive':0, 'death':0},
+        {'place':'Assam', 'positive':0, 'death':0},
+        {'place':'Bihar', 'positive':2, 'death':1},
+        {'place':'Chhattisgarh', 'positive':1, 'death':0},
+        {'place':'Chandigarh', 'positive':0, 'death':0},
+        {'place':'Dadra and Nagar Haveli and Daman and Diu', 'positive':0, 'death':0},
+        {'place':'Delhi', 'positive':30, 'death':1},
+        {'place':'Goa', 'positive':0, 'death':0},
+        {'place':'Gujarat', 'positive':29, 'death':1},
+        {'place':'Haryana', 'positive':12, 'death':0},
+        {'place':'Himachal Pradesh', 'positive':3, 'death':1},
+        {'place':'Jammu and Kashmir', 'positive':0, 'death':0},
+        {'place':'Jharkhand', 'positive':0, 'death':0},
+        {'place':'Karnataka', 'positive':0, 'death':0},
+        {'place':'Kerala', 'positive':0, 'death':0},
+        {'place':'Ladakh', 'positive':0, 'death':0},
+        {'place':'Lakshadweep', 'positive':0, 'death':0},
+        {'place':'Madhya Pradesh', 'positive':0, 'death':0},
+        {'place':'Maharashtra', 'positive':0, 'death':0},
+        {'place':'Manipur', 'positive':0, 'death':0},
+        {'place':'Meghalaya', 'positive':0, 'death':0},
+        {'place':'Mizoram', 'positive':0, 'death':0},
+        {'place':'Nagaland', 'positive':0, 'death':0},
+        {'place':'Odisha', 'positive':0, 'death':0},
+        {'place':'Punjab', 'positive':0, 'death':0},
+        {'place':'Puducherry', 'positive':0, 'death':0},
+        {'place':'Rajasthan', 'positive':0, 'death':0},
+        {'place':'Sikkim', 'positive':0, 'death':0},
+        {'place':'Tamil Nadu', 'positive':0, 'death':0},
+        {'place':'Telangana', 'positive':0, 'death':0},
+        {'place':'Tripura', 'positive':0, 'death':0},
+        {'place':'Uttar Pradesh', 'positive':0, 'death':0},
+        {'place':'Uttarakhand', 'positive':0, 'death':0},
+        {'place':'West Bengal', 'positive':0, 'death':0}
+    ],
+}
+
+export default place_data;
+
