@@ -29,13 +29,13 @@ const SimpleTable = (props) => {
         </TableHead>
         <TableBody>
           {props.jsonData.map((row) => (
-            <TableRow key={row.place}>
+            <TableRow key={row.loc}>
               <TableCell component="th" scope="row">
-                {row.place}
+                {row.loc}
               </TableCell>
-              <TableCell align="right">{row.confirmed}</TableCell>
-              <TableCell align="right">{row.cured}</TableCell>
-              <TableCell align="right">{row.death}</TableCell>
+              <TableCell align="right">{row.confirmedCasesIndian}</TableCell>
+              <TableCell align="right">{row.discharged}</TableCell>
+              <TableCell align="right">{row.deaths}</TableCell>
             </TableRow>
           ))}
         </TableBody>

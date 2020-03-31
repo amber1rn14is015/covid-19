@@ -28,14 +28,18 @@ class App extends Component {
     let confirmed = []
     let cured = []
     let deaths = []
-    axios.get(`/covid-19/data_file.json`)
+    axios.get(`https://api.rootnet.in/covid19-in/stats/latest`)
         .then( response => {
-        jsonData = response.data
+        jsonData = response.data.data.regional
         jsonData.forEach(element => {
-            places.push(element.place)
-            confirmed.push(element.confirmed)
-            cured.push(element.cured)
-            deaths.push(element.death)
+            // places.push(element.place)
+            // confirmed.push(element.confirmed)
+            // cured.push(element.cured)
+            // deaths.push(element.death)
+            places.push(element.loc)
+            confirmed.push(element.confirmedCasesIndian)
+            cured.push(element.discharged)
+            deaths.push(element.deaths)
         });
         axios.get(`https://newsapi.org/v2/top-headlines?q=COVID&country=in&apiKey=${process.env.REACT_APP_NEWS_API_KEY}&sortBy=publishedAt`)
         .then( response => {

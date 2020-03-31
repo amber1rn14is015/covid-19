@@ -1,6 +1,5 @@
 import React from 'react'
 import { Doughnut } from 'react-chartjs-2'
-import Typography from '@material-ui/core/Typography';
 
 const DoughnutChart = (props) => {
     const data = {
@@ -50,9 +49,6 @@ const DoughnutChart = (props) => {
             minWidth: "340px",
             minHeight: "340px"
         }}>
-            <Typography variant="caption" color="primary">
-                Click the sector to get more information
-            </Typography>
             <Doughnut
                 data = {data}
                 options = {{maintainAspectRatio: false, responsive: true, legend:{display: false}}}

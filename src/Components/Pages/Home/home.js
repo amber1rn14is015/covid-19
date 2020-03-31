@@ -20,7 +20,13 @@ const Home = (props) => {
         switch(tab){
             case 0 : template = (props.places.length===0? null : <SimpleTable {...props}/>)
                 break
-            case 1 : template = (props.places.length===0? null : <DoughnutChart places={props.places} confirmed={props.confirmed}/>)
+            case 1 : template = (props.places.length===0? null : (
+                    <div>
+                        <Typography variant="caption" color="primary">Click a sector to get more detail</Typography>
+                        <DoughnutChart places={props.places} confirmed={props.confirmed}/>
+                    </div>
+                    )
+                )
                 break
             case 2 : template = (props.places.length===0? null : <HorizontalBarChart places={props.places} confirmed={props.confirmed}/>)
                 break
